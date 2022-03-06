@@ -1,0 +1,60 @@
+body {
+    max-width: 400px;
+    width: 50%;
+    border: 10px solid #2a5b7c;
+    margin: auto;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-attachment: fixed;
+    background-image: url('back.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  
+  * {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  .quote {
+    border-left: 2px solid #568cb1;
+    padding-left: 5px;
+    font-weight: bold;
+  }
+  
+  .title {
+    padding-bottom: 7px;
+    padding-top: 7px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .date {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #00356b;
+    font-weight: bold;
+    font-weight: bold;
+  }
+  
+  .post {
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  hr {
+  border-top: 1px solid #082538}
+
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 10px;
+}
+  
